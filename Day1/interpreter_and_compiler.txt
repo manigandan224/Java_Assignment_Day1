@@ -1,0 +1,12 @@
+INTERPRETER:
+1. A compiler takes the entire program in one go.
+2. The compiler generates an intermediate machine code.
+3. The compiler is best suited for the prduction environment.
+4. The compiler is used by programming languages such as C,C++,C#,Scala,Java,etc.
+
+
+COMPILER:
+1. An interpreter takes a single line of code at a time.
+2. The interpreter never produces any intermediate machine code.
+3. An interpreter is best suited for a software development environment.
+4. An interpreter is used by programming languages such as Python,PHP,Perl,Ruby,etc.
